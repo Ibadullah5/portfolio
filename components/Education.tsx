@@ -5,10 +5,10 @@ import { useEffect } from "react";
 import { FaGraduationCap, FaCertificate } from "react-icons/fa";
 
 const education = {
-  degree: "Bachelor's in software engineering",
+  degree: "Bachelor's in Software Engineering",
   institution: "National University of Science and Technology (NUST), Pakistan",
-  date: "Oct 2021 - Present",
-  gpa: "3.48 CGPA",
+  date: "Oct 2021 - May 2025",
+  gpa: "3.55 CGPA",
 };
 
 const certifications = [

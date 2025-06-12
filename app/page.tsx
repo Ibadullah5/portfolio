@@ -19,9 +19,9 @@ export default function Home() {
       <Hero />
       <About />
       <Experience />
+      <Education />
       <Projects />
       <Skills />
-      <Education />
       <Contact />
     </motion.main>
   )

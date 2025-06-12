@@ -5,21 +5,28 @@ import { useEffect } from "react"
 import { FaTools } from "react-icons/fa"
 
 const skills = {
-  Languages: ["JavaScript", "Python", "C++", "C#", "Java", "SQL", "Solidity", "HTML", "CSS", "TailwindCSS"],
+  Languages: ["JavaScript", "Python", "C++", "C#", "Java", "SQL", "Solidity", "HTML", "CSS", "TailwindCSS", "YAML", "HCL"],
   "Libraries/Frameworks/Databases": [
     "React",
     "Express",
     "Next",
+    "FastAPI",
     "ShadCN",
     "MongoDB",
+    "PostgreSQL",
+    "MySQL",
     "Node",
     "SQL Server",
+    "Cloud Computing",
+    "Docker",
+    "Kubernetes",
     "Numpy",
+    "Scikit Learn",
     "TensorFlow",
     "YOLO V8",
     "Deepface",
   ],
-  Tools: ["Git", "Vercel", "Docker", "Figma", "CVAT"],
+  Tools: ["Amazon Web Services", "Git", "Vercel", "Docker", "Figma", "CVAT"],
   "Soft Skills": [
     "Communication",
     "Leadership",

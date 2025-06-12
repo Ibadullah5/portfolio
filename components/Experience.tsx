@@ -6,6 +6,18 @@ import { FaBriefcase } from "react-icons/fa"
 
 const experiences = [
   {
+    title: "DevOps Engineer",
+    company: "Eurus Technologies",
+    location: "Islamabad, Pakistan",
+    date: "March 2025 – Present",
+    description: [
+      "Experience with using Amazon Web Services for deploying scalable solutions.",
+      "Hands-on experience with AWS Services such as EC2, RDS, VPC, Auto Scaling, Load Balancing,Cloud Watch, SNS, Cloud Formation, ECS, EKS etc",
+      "Experience with container orchestration tools such as Kubernetes and Amazon ECS for deploying and managing scalable, containerized applications.",
+      "Hands-on experience with infrastructure-as-code tools like AWS CloudFormation and Terraform for provisioning and managing cloud infrastructure efficiently and securely."
+    ],
+  },
+  {
     title: "Junior AI Engineer",
     company: "NCSAEL",
     location: "Rawalpindi, Pakistan",
